@@ -45,7 +45,7 @@ client.delete_counter(slug="abc123xyz")
 ```
 
 ## Authentication
-For authenticated endpoints, obtain a Supabase JWT and pass it to the client. Public endpoints do not require authentication.
+For authenticated endpoints, obtain a API JWT and pass it to the client. Public endpoints do not require authentication.
 
 ## License
 MIT
